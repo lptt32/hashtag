@@ -1,6 +1,7 @@
 # hashtag
 ## Qu'est-ce qu'Hashtag ?
 Hashtag est une librairie javascript, qui permet de transformer ou de créer un site web en full ajax sans les problématiques récurrentes à ce type de développement :
+
 1. Complexité de mise en place.
 2. Complexité javascript.
 3. Historique de navigation.
@@ -11,6 +12,7 @@ Hashtag est une librairie javascript, qui permet de transformer ou de créer un 
 8. Mise à jour des titres de pages.
 
 De plus elle propose les fonctionnalités suivantes :
+
 1. Mise en cache des réponses serveurs.
 2. Préchargement de pages, d’images et fichiers CSS.
 3. Fonctions de pré-exécutions.
